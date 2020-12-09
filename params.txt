@@ -1,0 +1,12 @@
+numLayers 	5
+numCols		80
+wellRadius 	0.1
+boundaryRadius 	100000.
+h0 		48.
+dhMax 		1.0
+dtMin 		1e-9
+dtMax 		100.0
+dtPlus 		1.5
+dtMinus 	0.7
+tEnd 		1825.
+wellDist 	0.0064

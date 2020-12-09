@@ -1,0 +1,9 @@
+x0	0.
+xf	2000.
+nx	50
+y0	0.
+yf	2000.
+ny	50
+tGridSlices 	1800
+tMonSlice 	30
+numMonSlices 	60
